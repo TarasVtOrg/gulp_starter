@@ -21,4 +21,5 @@
 
 ## Working with gulp: 
 
-1. 
+1. for dev ```gulp``` or ```gulp develop```;
+2. for buld ```gulp build```;
