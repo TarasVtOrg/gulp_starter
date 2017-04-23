@@ -18,3 +18,7 @@
 
 - To create new branch ```git branch [name of your future branch]```;
 - To checkout to new one ```git checkout [name of your existing branch]```;
+
+## Working with gulp: 
+
+1. 
