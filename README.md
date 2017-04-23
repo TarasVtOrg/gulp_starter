@@ -14,7 +14,10 @@
 
 1. Type ```git add .``` to set all changed files to register;
 2. Type ```git commit -m '[you comment of last commit]'```
-3. Type ```git push origin [name of your current branch, possible it is [master]]```. Looks like ```git push origin master```;
+3. Type ```git push origin [name of your current branch, possible it is [master]]```. 
+Looks like ```git push origin master```;
+4. Type ```git pull origin [name of branch, possible it cout be master]```; 
+Looks like ```git pull origin master```;
 
 - To create new branch ```git branch [name of your future branch]```;
 - To checkout to new one ```git checkout [name of your existing branch]```;
